@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com</groupId>
   <artifactId>calculator</artifactId>
+  <version>1.1.2</version>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
   <name>calculator</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -81,4 +81,16 @@
 
     </plugins>
     </build>
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub fauzanreza Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/fauzanreza/calculator</url>
+    </repository>
+  </distributionManagement>
+  <properties>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+ </properties>
+  
 </project>
