@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com</groupId>
   <artifactId>calculator</artifactId>
-  <version>0.1.1-SNAPSHOT</version>
+  <version>0.1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>calculator</name>
   <url>http://maven.apache.org</url>
@@ -84,8 +84,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub fauzanreza Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/fauzanreza/calculator</url>
+      <name>GitHub faliaaufa Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/faliaaufa/calculator</url>
     </repository>
   </distributionManagement>
   <properties>
