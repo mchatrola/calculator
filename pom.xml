@@ -84,8 +84,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub fauzanreza Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/fauzanreza/calculator</url>
+      <name>GitHub faliaaufa Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/faliaaufa/calculator</url>
     </repository>
   </distributionManagement>
   <properties>
